@@ -1,3 +1,3 @@
 # social-status
 
-* first push
+* first push dev
