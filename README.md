@@ -17,7 +17,7 @@ To install, as per usualy clone the app to a local directory, run git init to in
 
 ## Video  
 
-[Walk-through]()  
+[Walk-through](https://drive.google.com/file/d/1JhVJwMrqrt-BncmvQc-pUezKq0SyFj7R/view)  
   
 Created by Trevor Pino
   
